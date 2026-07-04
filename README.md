@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0162-find-peak-element) |
 | [0896-monotonic-array](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0896-monotonic-array) |
@@ -16,5 +17,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
