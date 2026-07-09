@@ -4,13 +4,13 @@ class Solution {
             return false;
         }
         int [] freq = new int[26];
-        for(char C : s.toCharArray()) {
-            int i = C -'a';
+        for(char A : s.toCharArray()) {
+            int i = A -'a';
             freq[i]++;
 
         }
-        for(char C : t.toCharArray()) {
-            int i = C -'a';
+        for(char A : t.toCharArray()) {
+            int i = A -'a';
             freq[i]--;
         }
         for ( int i : freq) {
