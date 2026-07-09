@@ -32,10 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0344-reverse-string) |
 ## Two Pointers
 |  |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
