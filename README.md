@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0283-move-zeroes) |
 | [0896-monotonic-array](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0896-monotonic-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0242-valid-anagram) |
+## Prefix Sum
+|  |
+| ------- |
+| [1991-find-the-middle-index-in-array](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
