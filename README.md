@@ -34,12 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0709-to-lower-case) |
@@ -61,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1991-find-the-middle-index-in-array](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
