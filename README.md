@@ -34,11 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0125-valid-palindrome) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0013-roman-to-integer) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sorting
 |  |
