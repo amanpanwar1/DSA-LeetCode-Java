@@ -3,15 +3,14 @@ class Solution {
         int count = 0;
         int n = nums.length;
         for (int i = 0; i < n; i++) {
-            int currentSum = 0;
+            int sum = 0;
             for (int j = i; j < n; j++) {
-                currentSum += nums[j];
-                if (currentSum == k) {
+                sum += nums[j];
+                if (sum == k) {
                     count++;
                 }
             }
         }
-        
         return count;
     }
 }
