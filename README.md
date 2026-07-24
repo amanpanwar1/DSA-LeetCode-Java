@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0500-keyboard-row) |
+| [0560-subarray-sum-equals-k](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0896-monotonic-array](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0896-monotonic-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Binary Search
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0500-keyboard-row) |
+| [0560-subarray-sum-equals-k](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1991-find-the-middle-index-in-array](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Queue
 |  |
